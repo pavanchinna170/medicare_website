@@ -1,0 +1,29 @@
+.add-service {
+    margin: 20px auto;
+    width: 50%;
+  }
+  
+  .add-service form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .add-service input {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .add-service button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .add-service button:hover {
+    background-color: #45a049;
+  }
+  
